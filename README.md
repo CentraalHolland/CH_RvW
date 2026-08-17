@@ -23,6 +23,7 @@ Daarnaast wordt met het landgebruik-script voor iedere polder een landgebruikkaa
 
 ## Mappenstructuur
 
+```text
 root_folder/
 └── <waterschap>/
     ├── <polder_1>/
@@ -48,6 +49,7 @@ root_folder/
     │   └── landgebruik.tif
     │
     └── ...
+```
 
 ### 2. RVW_M2 Tool
 
